@@ -43,10 +43,10 @@ $query = mysqli_query($koneksi,"SELECT * FROM berita");
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#berita">Berita</a>
+            <a class="nav-link js-scroll-trigger" href="#berita">News</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#portfolio">Galeri</a>
+            <a class="nav-link js-scroll-trigger" href="#portfolio">Galery</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="../admin/pages/logiout/login.php">Login</a>
